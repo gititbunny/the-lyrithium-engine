@@ -87,7 +87,9 @@ export default function App() {
             />
             <input type="submit" className="submit-button" />
           </form>
-          <div className="hint">e.g. Flower, Hope, Love, etc...</div>
+          <div className="hint">
+            e.g. a name, keyword, favorite thing, etc...
+          </div>
         </div>
 
         <div className="poem-wrapper">
