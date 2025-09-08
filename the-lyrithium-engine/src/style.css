@@ -139,12 +139,12 @@ footer {
   border-radius: 20px;
   padding: 8px 12px;
   font-size: 12px;
-  background: #b09aff;
-  color: #272044;
+  background: #d400ff;
+  color: #fff;
   cursor: pointer;
-  opacity: 0.9;
   z-index: 2;
 }
 .copy-button:hover {
   opacity: 1;
+  background: #a200ff;
 }
